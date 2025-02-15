@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://abenrha.csgad.com/Bzx/sitemap.xml.gz
